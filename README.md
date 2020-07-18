@@ -1,4 +1,4 @@
-# Webpack Frontend Starterkit
+# Webpack Frontend Starterkit - Details
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/wbkd/webpack-starter.svg)](https://greenkeeper.io/)
 
