@@ -110,7 +110,7 @@ else
  //fetching the data
 
 async function getdata() {
-  const res = await fetch('https://newsapi.org/v2/top-headlines?country=in&apiKey=897c2e65625e425396495470aef7fadd');
+  const res = await fetch('https://newsapi.org/v2/top-headlines?country=in&apiKey=aa9b8614c0564af0b78f93326a86cd1a ');
   const data = await res.json();
   
   console.log(data);
@@ -220,7 +220,7 @@ input.addEventListener("keyup", function(event) {
                    
                       
                       
-               
+
     
                  
                 
